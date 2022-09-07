@@ -1,19 +1,19 @@
 module.exports={
 cf:{ // cloudflare api配置
-    email:'zcmimi@outlook.com',
-    key:'*************************************',
-    zone_name:'kksk.best'
+    email:'dbh2858304517',
+    key:'8a5bfb10db4a44530094743d4d2431aacb836',
+    zone_name:'幽香乐容'
 },
 mailer:{ // cloudflare api配置
     mailer:{
         host:"smtp.office365.com",
         port:587,
         auth:{
-            user: "zcmimi@outlook.com",
-            pass: "*****************"
+            user: "yxlr.tk@outlook.com",
+            pass: "20081228dbh"
         }
     },
-    from: "zcmimi<zcmimi@outlook.com>"
+    from: "yxlr.tk<yxlr.tk@outlook.com>"
 },
 limit:{ // 限制
     per:3, // 每个邮箱最多享有几个二级域名
